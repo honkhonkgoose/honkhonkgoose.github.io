@@ -3,5 +3,8 @@ body {
 }
 p {
   color: #2e69a3;
-  }
+ }
   p
+.nav {
+  color: grey;
+}
